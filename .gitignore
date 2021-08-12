@@ -1,4 +1,4 @@
 tailwind/
 node_modules/
-package.json
+*.json
 *.config.js
