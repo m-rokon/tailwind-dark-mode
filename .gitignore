@@ -1,4 +1,4 @@
-./css/
+tailwind/
 node_modules/
 *.json
 *.config.js
